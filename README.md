@@ -60,4 +60,7 @@ Once our Virtual Machine (VM) has been created and it's up and running with all 
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/E6siYHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
