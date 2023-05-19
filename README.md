@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 In order to create an osTicket, we must first create our Resource Group in Azure Portal. So we will go to (portal.azure.com) and create our Resource Group.
 
-  <img src="https://i.imgur.com/OfZFVMo.png" height="80%" width="80%" alt="Disk Sanitazation Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitazation Steps"/>
 </p>
 <br />
 
