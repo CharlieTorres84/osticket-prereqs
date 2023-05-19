@@ -40,6 +40,9 @@ In order to create an osTicket, we must first create our Resource Group in Azure
 </p>
 <p>
 Once we're done creating our Resource Group in Azure Portal we will create our Virtual Machine (VM) next.
+</p>
+<br />
+  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
