@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Servives (IIS)
 - Install Web Platform Installer
 - Install MySQL, Setup Username and Password
-- Install C++ Resdistributable
+- Install VC Redistributable
 - Configure Permissions and Install oS Ticket
 
 <h2>Installation Steps</h2>
