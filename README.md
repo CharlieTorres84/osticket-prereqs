@@ -90,5 +90,8 @@ Once we are inside of the Virtual Machine we will see this Blue Desktop Screen w
 Next, we're going to install and enable "Internet Information Services" (IIS) with (CGI). (IIS) is a Web Server that allows this computer to serve up different websites because "oSTicket" runs out of a website and we need to configure (IIS) so that we can run "oSTicket". So first, we need to right-click the "Start Menu" and click on "Run" and then we need to type in "Control" for Control Panel, then click "OK"
   
 <p>
-<img src="
+<img src="https://i.imgur.com/CQaHIqy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
 
