@@ -44,7 +44,7 @@ Once we're done creating our Resource Group in Azure Portal we will create our V
 <br />
   
 <p>
-<img src="https://i.imgur.com/NV5IRT0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3zbP04A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The next step would be to type in Virtual Machine (VM) in our Search bar and create our Virtual Machine (Windows 10) with its credentials. 
