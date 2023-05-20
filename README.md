@@ -83,4 +83,9 @@ Once we are inside of the Virtual Machine we will see this Blue Desktop Screen w
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/444UCeX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+First, we need to right-click the "Start Menu" and click on "Run" and then we need to type in "Control" for Control Panel, then click "OK"
 
