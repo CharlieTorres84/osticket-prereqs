@@ -98,3 +98,7 @@ Next, we're going to install and enable "Internet Information Services" (IIS) wi
 <img src="https://i.imgur.com/pKyhNQn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Next, we will be clicking on "Programs" for "Control Panel", then for "Programs and Features" we will click on "Turn Windows features On or Off".
+</p>
+<br />
+
