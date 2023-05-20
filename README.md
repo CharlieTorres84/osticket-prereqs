@@ -103,7 +103,7 @@ Next, we will be clicking on "Programs" for "Control Panel", then for "Programs 
 <br />
 
 <p>
-<img src="https://i.imgur.com/YpWhUZy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nuIIAHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
