@@ -60,7 +60,7 @@ Once our Virtual Machine (VM) has been created and it's up and running with all 
 <br />
 
 <p>
-<img src="https://i.imgur.com/E6siYHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZhgZYYX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once we have Remote Desktop Connection running, we will copy our Virtual Machine's (VM) Public IP Address and we will login into Remote Desktop Connection.
