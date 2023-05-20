@@ -74,3 +74,13 @@ Once we have Remote Desktop Connection running, we will copy our Virtual Machine
 Next we have to click on "Use a different Account" and we have to type in the Username and Password that we created when we created our Virtual Machine in Azure Portal.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Lce2EfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once we are inside of the Virtual Machine we will see this Blue Desktop Screen with the Windows Icon.
+</p>
+<br />
+
+
