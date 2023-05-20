@@ -55,7 +55,7 @@ The next step would be to type in Virtual Machine (VM) in our Search bar and cre
 <img src="https://i.imgur.com/VFDFBPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once our Virtual Machine (VM) has been created and it's up and running with all of its resources, we will Remote Desktop Connect right into our Virtual Machine (VM)  
+Once our Virtual Machine (VM) has been created and it's up and running with all of its resources, we will Remote Desktop Connect right into our Virtual Machine (VM).  
 </p>
 <br />
 
@@ -63,4 +63,9 @@ Once our Virtual Machine (VM) has been created and it's up and running with all 
 <img src="https://i.imgur.com/E6siYHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Once we have Remote Desktop Connection running, we will copy our Virtual Machine's (VM) Public IP Address and we will login into Remote Desktop Connection.
+</p>
+<br />
 
+<p>
+<img src="
