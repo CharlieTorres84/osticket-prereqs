@@ -246,4 +246,8 @@ Next were going to download "PHP" and then we are going to unzip the contents of
 <p>
 
 <p>
-<img src="
+<img src="https://i.imgur.com/YW0LwJ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+
