@@ -175,7 +175,7 @@ Next, we will download and install "PHP Manager" for (IIS) and we will open up "
 <img src="https://i.imgur.com/lEcWACw.png" height"80%" width"80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-th
+
 <p>
 <img src="https://i.imgur.com/uwti634.png" height"80%" width"80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -185,4 +185,8 @@ Next, we need to install "Rewrite Module". "Rewrite Module" allows certain speci
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/TuQvbfX.png" height"80%" width"80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
