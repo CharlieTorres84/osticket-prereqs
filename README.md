@@ -157,6 +157,5 @@ Once the changes are done, the "Programs" screen will confirm "Windows completed
 <img src="https://i.imgur.com/yzzK7aB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-<p>
+Next, we will download and install "PHP Manager" for (IIS) and we will open up "File Folder" so that we can download it straight up. When the "PHP Manager" screen appears, we are going to click on "Next" for "Warranty", then for "License Agreement" we are going to click on "I Agree" and then click on "Next" for the installation. Once "PHP Manager" is finished with Installation, we will click on "Close"
 
