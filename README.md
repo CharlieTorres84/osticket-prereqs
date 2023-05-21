@@ -255,4 +255,13 @@ Next were going to download "PHP" and then we are going to unzip the contents of
 </p>
 <p>
 Now, we are going to download and install "Microsoft Visual C++ Redistributable". "PHP" requires it so we need to install it. Once we download it, it will show up in our "File Explorer" so we will double-click on the file and when the "Microsoft Visual C++ Redistributable" screen comes up, we will check the box for "I agree to the license terms and conditions" and then click on "Install". Once it's done installing, we will click on "Close".
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/JiMFv4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
+<img src="
