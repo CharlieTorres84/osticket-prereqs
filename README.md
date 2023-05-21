@@ -198,3 +198,9 @@ Next, we need to install "Rewrite Module". "Rewrite Module" allows certain speci
 <img src="https://i.imgur.com/I4o8Qqa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Next we need to create a "Directory" for "PHP" on the local harddrive, so we're just going to create "PHP" on the "Root" of "Windows (C) Drive". Next, we'll go to "Windows (C) Drive" then we'll right-click and go down and click on "New" and then click on "Folder" and then well name our new folder "PHP".
+</p>
+<br />
+
+<p>
+<img src="
