@@ -208,3 +208,8 @@ Next we need to create a "Directory" for "PHP" on the local harddrive, so we're 
 <p>
  
 <p>
+<img src="https://i.imgur.com/cTsgE8M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
