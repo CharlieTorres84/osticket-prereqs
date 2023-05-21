@@ -134,7 +134,7 @@ Once the changes are done, the "Programs" screen will confirm "Windows completed
 <br />
 
 <p>
-<img src="https://i.imgur.com/CSuWy3B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6kcPOfl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
