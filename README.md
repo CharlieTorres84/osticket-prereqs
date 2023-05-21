@@ -177,6 +177,6 @@ Next, we will download and install "PHP Manager" for (IIS) and we will open up "
 <p>
 
 <p>
-<img src="https://i.imgur.com/fxtCbvF.png" height"80%" width"80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uwti634.png" height"80%" width"80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
