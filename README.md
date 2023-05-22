@@ -319,6 +319,8 @@ Now, we are going to download and install "Microsoft Visual C++ Redistributable"
 <p>
   
 <p>
-<img src="
+<img src="https://i.imgur.com/EcZQ4mY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 
