@@ -395,5 +395,13 @@ Next, we are going to register a new "PHP" version and this is where we are goin
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/KyLLoAd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well go to "Windows (C) Drive" in "File Explorer" and go down and click on "PHP" folder.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KyLLoAd.png
 
