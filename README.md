@@ -387,5 +387,13 @@ Next we will double-click on "PHP Manager".
 <br />
 
 <p>
+<img src="https://i.imgur.com/oc2MYCX.png" height="80%" width="80%" alt="Dik Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to register a new "PHP" version and this is where we are going to browse to where we dumped all of the "PHP" data in the "File Explorer" "C:\PHP" folder, so click on this small box.
+</p>
+<br />
+
+<p>
 <img src="
 
