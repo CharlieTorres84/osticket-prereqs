@@ -371,5 +371,21 @@ Next, we are going to open up "IIS" as an "Admin" so, we will click on "Start Me
 <br />
 
 <p>
+<img src="https://i.imgur.com/ryAbtCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will double-click on "PHP Manager".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/voRt9RN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"PHP" states "PHP is not enabled. Register new PHP version to enable PHP via FastCGI", so we are going to click on "Register new PHP version".
+</p>
+<br />
+
+<p>
 <img src="
 
