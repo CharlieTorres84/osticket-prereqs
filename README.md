@@ -403,5 +403,13 @@ Then well go to "Windows (C) Drive" in "File Explorer" and go down and click on 
 <br />
 
 <p>
-<img src="https://i.imgur.com/KyLLoAd.png
+<img src="https://i.imgur.com/ewAaOV9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Then we will click on "php.cgi" and make sure that "PHP executable (php.cgi.exe)" box is selected, and then well click on "php.cgi" file again.
+</p>
+<br />
+
+<p>
+<img src="
 
