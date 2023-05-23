@@ -270,7 +270,7 @@ Next, we are going to download "MySQL Server". The purpose of "MySQL Server", is
 <img src="https://i.imgur.com/9TOKrwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Now, we are going to go to our "File Explorer" and then go to "Downloads Folder" and we will double-click on "MySQL 
 <p>
 <img src="https://i.imgur.com/fEO4Uyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
