@@ -363,5 +363,13 @@ Once it's completed, click on "Finish" to complete the "MySQL Server" installati
 <br />
 
 <p>
+<img src="https://i.imgur.com/A9LfcMq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to open up "IIS" as an "Admin" so, we will click on "Start Menu" in the lower left corner of our screen and type in the search bar "IIS". Then we will go up and right-click on "Internet Information Services Manager (IIS)" and then click "Run as administrator"
+</p>
+<br />
+
+<p>
 <img src="
 
