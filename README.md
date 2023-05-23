@@ -302,40 +302,66 @@ For "Choose Setup Type" we will click on "Typical" and then click on "Next"
 <img src="https://i.imgur.com/SyD2toE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+When the "Ready to install MySQL Server 5.5" screen appears, we will click on "Install"
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/ny9jsfB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+When the "Completed the MySQL Server 5.5 Setup Wizard" screen appears, we have to make sure that we check the small box where it states "Launch the MySQL Instance Configuration Wizard" and then we will click on "Finish"
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/TeBDA8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+When this screen appears we will click on "Next" to configure "MySQL".
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/AQaYvLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Next, for configuration type we will click on "Standard Configuration" then click "Next".
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/ppBuuvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+For "Window Options", we will click "Next".
+</p>
+<br
+    
 <p>
 <img src="https://i.imgur.com/pqVGZFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+For "Security Options", we are going to enter and re-enter a "root" password and then click on "Next".
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/MQgdB8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+Next, click on "Execute" to start processing the configurations.
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/EcZQ4mY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Once it's completed, click on "Finish" to complete the "MySQL Server" installation.
+</p>
+<br />
 
+<p>
+<img src="
 
