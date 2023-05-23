@@ -262,7 +262,7 @@ Now, we are going to download and install "Microsoft Visual C++ Redistributable"
 <img src="https://i.imgur.com/JiMFv4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we are going to download "MySQL Server". The purpose of "MySQL Server", is that it is going to install a "Database" on this actual computer (Virtual Machine), because "oSTicket" needs to store the application data like all of the tickets and users. So, we will click on 'Download" to start the installation.
+Next, we are going to download "MySQL Server". The purpose of "MySQL Server", is that it is going to install a "Database" on this actual computer (Virtual Machine), because "oSTicket" needs to store the application data like all of the tickets and users. So, we will click on "Download" to start the installation.
 </p>
 <br />
 
@@ -278,6 +278,9 @@ Now, we are going to go to our "File Explorer" and then go to "Downloads Folder"
 <img src="https://i.imgur.com/fEO4Uyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+When the "MySQL Server 5.5 Setup" screen appears, we will click on next.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/ubfXHed.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
