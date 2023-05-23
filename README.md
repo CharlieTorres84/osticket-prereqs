@@ -286,11 +286,17 @@ When the "MySQL Server 5.5 Setup" screen appears, we will click on next.
 <img src="https://i.imgur.com/ubfXHed.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Next, we will check on the small box for "I accept the terms in the Licence Agreement" and then click on "Next"
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/kyXcLd4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+For "Choose Setup Type" we will click on "Typical" and then click on "Next"
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/SyD2toE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
