@@ -435,4 +435,12 @@ Next we will be installing the "oSTicket" ticketing system.
 <br />
 
 <p>
+<img src="https://i.imgur.com/iezKzyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we need to "Extract" and "Copy" the "Upload" folder into the "C:\inetpub\wwwroot". This is a special folder, this is our Web Server's main folder and our "Upload" folder is inside of our "oSTicket" that we just downloaded. So we will open up 2 "File Explorer" folders, were we have our "oSTicket" file.
+</p>
+<br />
+
+<p>
 <img src="
