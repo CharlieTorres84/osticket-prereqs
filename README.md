@@ -562,6 +562,14 @@ If you get an error here, it means that you need to either restart the lab or tr
 <br />
 
 <p>
+<img src="https://i.imgur.com/LdEkp59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We can notice that some "Extensions" are not enabled here and we can see some red x's here, so we will adjust and enable a few things in "IIS" to eliminate some of the red x's and make them work.
+</p>
+<br />
+
+<p>
 <img src="
 
 
