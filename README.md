@@ -491,4 +491,12 @@ Then we will go back to our 2nd "File Explorer" folder and click and drag our "U
 <br />
 
 <p>
+<img src="https://i.imgur.com/Lb0s25a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we can see that we have our "Upload" folder inside of our "wwwroot" folder.
+</p>
+<br />
+
+<p>
 <img src="
