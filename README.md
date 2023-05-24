@@ -554,6 +554,14 @@ Then, we will click on the "osTicket" folder and also click on "Browse*80" to op
 <br />
 
 <p>
+<img src="https://i.imgur.com/bbjvMql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If you get an error here, it means that you need to either restart the lab or try to figure out what went wrong, but this "oSTicket" screen should appear which means that "oSTicket" is now working and installed properly.
+</p>
+<br />
+
+<p>
 <img src="
 
 
