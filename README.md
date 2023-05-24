@@ -546,5 +546,14 @@ Then, click on the small arrow for "Default Web Site".
 <br />
 
 <p>
+<img src="https://i.imgur.com/Uvg0a3L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then, we will click on the "osTicket" folder and also click on "Browse*80" to open up "oSTicket".
+</p>
+<br />
+
+<p>
 <img src="
+
 
