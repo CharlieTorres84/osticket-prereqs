@@ -483,4 +483,12 @@ Then well double-click on "wwwroot" folder.
 <br />
 
 <p>
+<img src="https://i.imgur.com/DsUIjJU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will go back to our 2nd "File Explorer" folder and click and drag our "Upload" folder into our 1st "File Explorer" folder into "c:\inetpub\wwwroot" in "Windows (C) Drive" and then let it "Copy" and finish.
+</p>
+<br />
+
+<p>
 <img src="
