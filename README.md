@@ -443,4 +443,18 @@ Next, we need to "Extract" and "Copy" the "Upload" folder into the "C:\inetpub\w
 <br />
 
 <p>
+<img src="https://i.imgur.com/DCB1K5t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we need to go to our 2nd "File Explorer" folder and we need to double-click our "oSTicket" zip file.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UUzzcTL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we need to drop our "Upload" folder into our "C:\inetpub\wwwroot" folder in our "Windows (C) Drive".
+  
+<p>
 <img src="
