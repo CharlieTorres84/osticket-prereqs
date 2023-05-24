@@ -467,4 +467,12 @@ So, we will open up "Windows (C) Drive" in our 1st "File Explorer" folder and do
 <br />
 
 <p>
+<img src="https://i.imgur.com/hVp12DO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well double-click on our "Inetpub" folder.
+</p>
+<br />
+
+<p>
 <img src="
