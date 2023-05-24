@@ -533,7 +533,7 @@ So, well go back to "IIS" and "Restart" the sever. So well click on the server w
 <img src="https://i.imgur.com/vAyunQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we are going to go to sites inside of "IIS" and click on the small turquoise arrow for sites.
+Next, we are going to go to sites inside of "IIS" and click on the small turquoise arrow for "Sites".
 </p>
 <br />
 
