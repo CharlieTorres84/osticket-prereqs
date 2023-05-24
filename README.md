@@ -525,7 +525,15 @@ Next, we have to "Rename" our "Upload" folder to "osTicket", so we will right-cl
 <img src="https://i.imgur.com/vT07pcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So well to "IIS" and "Restart" the sever. So well click on the server which is "vm-osticket\Lab" and we are going to "Restart" the server again.
+So, well go back to "IIS" and "Restart" the sever. So well click on the server which is "vm-osticket\Lab" and we are going to "Restart" the server again.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/vAyunQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to go to sites inside of "IIS" and click on the small turquoise arrow for sites.
 </p>
 <br />
 
