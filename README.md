@@ -517,7 +517,7 @@ Now we can see that we have our "Upload" folder inside of our "wwwroot" folder.
 <img src="https://i.imgur.com/IQGWX7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we have to "Rename" our "Upload" folder to "osTicket".
+Next, we have to "Rename" our "Upload" folder to "osTicket", so we will right-click on the "Upload" folder and go down to "Rename" and change it to "osTicket".
 </p>
 <br />
 
