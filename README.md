@@ -522,4 +522,12 @@ Next, we have to "Rename" our "Upload" folder to "osTicket".
 <br />
 
 <p>
+<img src="https://i.imgur.com/vT07pcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So well to "IIS" and "Restart" the sever. So well click on the server which is "vm-osticket\Lab" and we are going to "Restart" the server again.
+</p>
+<br />
+
+<p>
 <img src="
