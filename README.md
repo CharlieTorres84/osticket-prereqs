@@ -455,6 +455,16 @@ Next, we need to go to our 2nd "File Explorer" folder and we need to double-clic
 </p>
 <p>
 Then we need to drop our "Upload" folder into our "C:\inetpub\wwwroot" folder in our "Windows (C) Drive".
-  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LaxFlAC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So, we will open up "Windows (C) Drive" in our 1st "File Explorer" folder and double-click the "Windows (C) Drive.
+</p>
+<br />
+
 <p>
 <img src="
