@@ -509,4 +509,8 @@ Now we can see that we have our "Upload" folder inside of our "wwwroot" folder.
 <p>
   
 <p>
-<img src="
+<img src="https://i.imgur.com/fAuyhhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+
