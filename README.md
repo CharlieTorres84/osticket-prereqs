@@ -398,7 +398,7 @@ Next, we are going to register a new "PHP" version and this is where we are goin
 <img src="https://i.imgur.com/KyLLoAd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then well go to "Windows (C) Drive" in "File Explorer" and go down and click on "PHP" folder.
+Then well go to "Windows (C) Drive" in "File Explorer" and go down and double-click on "PHP" folder.
 </p>
 <br />
 
@@ -406,7 +406,7 @@ Then well go to "Windows (C) Drive" in "File Explorer" and go down and click on 
 <img src="https://i.imgur.com/ewAaOV9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Then we will click on "php.cgi" and make sure that "PHP executable (php.cgi.exe)" box is selected, and then well click on "php.cgi" file again.
+Then we will double-click on "php.cgi" and make sure that "PHP executable (php.cgi.exe)" box is selected, and then well double-click on "php.cgi" file again.
 </p>
 <br />
 
@@ -414,4 +414,9 @@ Then we will click on "php.cgi" and make sure that "PHP executable (php.cgi.exe)
 <img src="https://i.imgur.com/i7acNWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Then we will click on "OK" to register.
+</p>
+<br />
 
+<p>
+<img src="
