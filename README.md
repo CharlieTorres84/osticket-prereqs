@@ -419,4 +419,12 @@ Then we will click on "OK" to register.
 <br />
 
 <p>
+<img src="https://i.imgur.com/Mb0g9vt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once "PHP Manager" is registered, and whenever we make any adjustments to "IIS", it's recommended to "Restart" the Web Server. So we will click on the name of the server which is "vm-osticket(vm-osticket\lab)" and then we will click on "Restart" to refresh the Web Server.
+</p>
+<br />
+
+<p>
 <img src="
