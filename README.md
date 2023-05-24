@@ -475,4 +475,12 @@ Then well double-click on our "Inetpub" folder.
 <br />
 
 <p>
+<img src="https://i.imgur.com/GEoBj5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well double-click on "wwwroot" folder.
+</p>
+<br />
+
+<p>
 <img src="
