@@ -594,6 +594,14 @@ Then we will go down to "PHP Extensions" and click on "Enable or Disable an Exte
 <br />
 
 <p>
+<img src="https://i.imgur.com/AWPxT4O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to "Enable" the following extensions.
+</p>
+<br />
+
+<p>
 <img src="
 
 
