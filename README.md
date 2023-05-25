@@ -605,7 +605,15 @@ Next, we are going to "Enable" the following extensions.
 <img src="https://i.imgur.com/SKQtMEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The 1st extension that we are going to "Enable" is "php_imap.dii", so we will click on it and then click on "Enable" at the upper right-hand corner under "Actions".
+The 1st extension that we are going to "Enable" is "php_imap.dll", so we will click on it and then click on "Enable" at the upper right-hand corner under "Actions".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/M3wth6j.png" height="80%" width="80%" alt="Disk sanitization Steps"/>
+</p>
+<p>
+The 2nd extension is going to be, "php_intl.dll", then click on "Enable".
 </p>
 <br />
 
