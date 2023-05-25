@@ -765,12 +765,21 @@ Next, we are going to continue setting up "osTicket" in the browser, so well go 
 <img src="https://i.imgur.com/N2Y4ZMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For "System Settings" we can type in any "Help Desk Name" and "Default Email"  write the "Default Email" down in some notes somewhere so that we don't forget.
+For "System Settings" we can type in any "Help Desk Name" and "Default Email"  we need to write the "Default Email" down in some notes somewhere so that we don't forget.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/EqDRvY1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For "Admin User" we will continue to type in our credentials, we need to always remember to right down our "Username" and "Password" in some notes in a pad so that we don't forget and we don't have any issues when we try to login.
 </p>
 <br />
 
 <p>
 <img src="
+
                                                                        
 
 
