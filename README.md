@@ -626,6 +626,14 @@ The 3rd extension is going to be "php_opcache.dll" then click on "Enable" to com
 <br />
 
 <p>
+<img src="https://i.imgur.com/p8Uu0jh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next well go back to our "oSTicket" Browser and click on "Refresh" icon to remove some of the red x's.
+</p>
+<br />
+
+<p>
 <img src="
 
 
