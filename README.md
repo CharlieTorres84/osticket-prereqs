@@ -682,6 +682,14 @@ Next, we will be setting the "Permissions" on this "ost-config.php" file, so tha
 <br />
 
 <p>
+<img src="https://i.imgur.com/tVHXblR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well click on "Security" and then click on "Advanced".
+</p>
+<br />
+
+<p>
 <img src="
 
 
