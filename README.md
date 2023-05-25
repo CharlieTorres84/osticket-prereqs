@@ -586,6 +586,14 @@ Then well double-click on "PHP Manager".
 <br />
 
 <p>
+<img src="https://i.imgur.com/djlDFH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will go down to "PHP Extensions" and click on "Enable or Disable an Extension".
+</p>
+<br />
+
+<p>
 <img src="
 
 
