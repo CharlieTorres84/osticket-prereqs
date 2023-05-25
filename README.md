@@ -746,6 +746,14 @@ Then we will click on "Apply" and then click on "OK".
 <br />
 
 <p>
+<img src="https://i.imgur.com/2j2RPCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will click on "OK" again so, now everyone in "ost-config.php" has permissions to it.
+</p>
+<br />
+
+<p>
 <img src="
 
 
