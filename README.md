@@ -661,7 +661,23 @@ Now we will double-click on "include" folder.
 <img src="https://i.imgur.com/DJmrW8F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then we wil scroll down to "ost-sampleconfig.php"
+Then we will scroll down to "ost-sampleconfig.php"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Gz8F2Xt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So, we will only delete "Sample" out of the "ost-sampleconfig.php", so it will look like this "ost-config.php" now.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SUdYU88.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will be setting the "Permissions" on this "ost-config.php" file, so that everyone has the ability to do anything they want to this file. That's because the actual "osTicket" installer that's going to run on this browser, needs to manipulate and interact with this file and we don't know what "User" it's going to use to do that, so we need to let everyone have access to this file in the meantime. So in order to do that, first we will right-click on "ost-config.php" and click on "Properties".
 </p>
 <br />
 
