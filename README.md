@@ -714,6 +714,14 @@ Now, we are going to click on "Add" for permissions.
 <br />
 
 <p>
+<img src="https://i.imgur.com/i0z1etz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will click on "Select a Principle".
+</p>
+<br />
+
+<p>
 <img src="
 
 
