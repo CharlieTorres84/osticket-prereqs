@@ -650,7 +650,24 @@ Next, we need to open up "File Explorer" folder and we need to "Rename" "ost-con
 <br />
 
 <p>
+<img src="https://i.imgur.com/ew7Heke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Now we will double-click on "include" folder.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmrW8F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we wil scroll down to "ost-sampleconfig.php"
+</p>
+<br />
+
+<p>
+<img src="
+
 
 
 
