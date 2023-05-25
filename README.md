@@ -722,6 +722,14 @@ Next, we will click on "Select a Principle".
 <br />
 
 <p>
+<img src="https://i.imgur.com/hfKwB4z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will type in "EVERYONE" then click on "Check Names" and then click on "OK".
+</p>
+<br />
+
+<p>
 <img src="
 
 
