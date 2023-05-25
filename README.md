@@ -573,11 +573,20 @@ We can notice that some "Extensions" are not enabled here and we can see some re
 <img src="https://i.imgur.com/5vJ4TL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So, we will go back to "IIS" and double-click on "osTicket" folder.
+So, we will go back to "IIS" and click on "osTicket" folder.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/l6tlq1q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well double-click on "PHP Manager".
 </p>
 <br />
 
 <p>
 <img src="
+
 
 
