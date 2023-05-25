@@ -610,7 +610,7 @@ The 1st extension that we are going to "Enable" is "php_imap.dll", so we will cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/M3wth6j.png" height="80%" width="80%" alt="Disk sanitization Steps"/>
+<img src="https://i.imgur.com/M3wth6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The 2nd extension is going to be, "php_intl.dll", then click on "Enable".
@@ -618,7 +618,16 @@ The 2nd extension is going to be, "php_intl.dll", then click on "Enable".
 <br />
 
 <p>
+<img src="https://i.imgur.com/2DUXcPt.png" height"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The 3rd extension is going to be "php_opcache.dll" then click on "Enable" to complete the extensions.
+</p>
+<br />
+
+<p>
 <img src="
+
 
 
 
