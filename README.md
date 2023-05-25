@@ -642,7 +642,16 @@ Once we "Refresh" the "oSTicket" browser page, we can see that we removed 2 red 
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/mCkr9tg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we need to open up "File Explorer" folder and we need to "Rename" "ost-config.php" file, so we will open up "File Explorer" to "wwwroot" and double-click on "osTicket" file.
+</p>
+<br />
+
+<p>
+</p>
+
 
 
 
