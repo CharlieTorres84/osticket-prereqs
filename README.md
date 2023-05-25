@@ -690,6 +690,14 @@ Then well click on "Security" and then click on "Advanced".
 <br />
 
 <p>
+<img src="https://i.imgur.com/EU3HmhE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will click on "Disable Inheritance", so it wwill stop inheriting permissions.
+</p>
+<br />
+
+<p>
 <img src="
 
 
