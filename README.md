@@ -762,6 +762,14 @@ Next, we are going to continue setting up "osTicket" in the browser, so well go 
 <br />
 
 <p>
+<img src="https://i.imgur.com/N2Y4ZMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For "System Settings" we can type in any "Help Desk Name" and "Default Email" just make sure you write the "Default Email" down in some notes somewhere so that you don't forget.
+</p>
+<br />
+
+<p>
 <img src="
                                                                        
 
