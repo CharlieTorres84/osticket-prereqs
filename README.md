@@ -730,6 +730,14 @@ Then we will type in "EVERYONE" then click on "Check Names" and then click on "O
 <br />
 
 <p>
+<img src="https://i.imgur.com/T8Rc9CM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For now, we are going to give everyone "Full Control" then click on "OK".
+</p>
+<br /> 
+
+<p>
 <img src="
 
 
