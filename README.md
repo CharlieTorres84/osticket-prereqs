@@ -754,7 +754,16 @@ Then we will click on "OK" again so, now everyone in "ost-config.php" has permis
 <br />
 
 <p>
+<img src="https://i.imgur.com/z4qR3rG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to continue setting up "osTicket" in the browser, so well go back to our "osTicket" browser and we will click on "Continue".
+</p>
+<br />
+
+<p>
 <img src="
+                                                                       
 
 
 
