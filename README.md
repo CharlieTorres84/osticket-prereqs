@@ -602,6 +602,14 @@ Next, we are going to "Enable" the following extensions.
 <br />
 
 <p>
+<img src="https://i.imgur.com/SKQtMEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The 1st extension that we are going to "Enable" is "php_imap.dii", so we will click on it and then click on "Enable" at the upper right-hand corner under "Actions".
+</p>
+<br />
+
+<p>
 <img src="
 
 
