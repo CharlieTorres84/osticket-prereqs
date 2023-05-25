@@ -738,6 +738,14 @@ For now, we are going to give everyone "Full Control" then click on "OK".
 <br /> 
 
 <p>
+<img src="https://i.imgur.com/V9w5QcO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will click on "Apply" and then click on "OK".
+</p>
+<br />
+
+<p>
 <img src="
 
 
