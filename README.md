@@ -634,7 +634,16 @@ Next well go back to our "oSTicket" Browser and click on "Refresh" icon to remov
 <br />
 
 <p>
+<img src="https://i.imgur.com/xSM9hSc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once we "Refresh" the "oSTicket" browser page, we can see that we removed 2 red x's now.
+</p>
+<br />
+
+<p>
 <img src="
+
 
 
 
