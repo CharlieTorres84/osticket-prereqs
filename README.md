@@ -818,6 +818,14 @@ Then we will click on "Next" for "Select Start Menu Folder".
 <br />
 
 <p>
+<img src="https://i.imgur.com/fCRsD4t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will also click on "Next" for "Select Additional Tasks".
+</P>
+<br />
+
+<p>
 <img src="
 
 
