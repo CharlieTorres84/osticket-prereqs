@@ -978,7 +978,10 @@ Next, we are going to double-click on "include" folder.
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/KcgFRGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 
 
 
