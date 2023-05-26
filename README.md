@@ -874,6 +874,14 @@ Next, we need to our "MySQL Database", "MySQL Username" and "MySQL Password", so
 <br />
 
 <p>
+<img src="https://i.imgur.com/64woQ9k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we have to create a "New" database in "HeidiSQL", so we will open up "HeidiSQL" and then right-click on "Unamed"
+</p>
+<br />
+
+<p>
 <img src="
 
 
