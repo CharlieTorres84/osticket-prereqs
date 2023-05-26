@@ -922,7 +922,15 @@ Now, we will go back to our "osTicket" browser and go back to "Database Settings
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/isjLSDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations! If you see this screen, that means that we successfully installed our "osTicket" ticketing system.
+</p>
+<br />
+
+<p>
+<img src
 
 
 
