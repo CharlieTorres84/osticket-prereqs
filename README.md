@@ -826,6 +826,14 @@ We will also click on "Next" for "Select Additional Tasks".
 <br />
 
 <p>
+<img src="https://i.imgur.com/Azxm2th.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will click on "Install" for "Ready to Install".
+</p>
+<br />
+
+<p>
 <img src="
 
 
