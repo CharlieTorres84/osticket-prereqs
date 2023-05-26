@@ -778,6 +778,14 @@ For "Admin User" we will continue to type in our credentials, we need to always 
 <br />
 
 <p>
+<img src="https://i.imgur.com/ViznNuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, before we fill in our "Database Settings" we have to setup a "Database" which is called "HeidiSQL". So, we will install "HeidiSQL" in which allows us to connect to our "MySQL" database that we installed earlier and it will allow us to connect to that "SQL" server and then were going to setup a database the "osTicket" is going to use.
+</p>
+<br />
+
+<p>
 <img src="
 
                                                                        
