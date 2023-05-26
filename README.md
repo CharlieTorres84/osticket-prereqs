@@ -914,6 +914,14 @@ We can now see that our "osTicket" database was successfully created, because th
 <br />
 
 <p>
+<img src="https://i.imgur.com/dDCgQif.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now, we will go back to our "osTicket" browser and go back to "Database Settings" and type in "osTicket" for "MySQL Database" and then click on "Install Now" to finish our "osTicket" installation.
+</p>
+<br />
+
+<p>
 <img src="
 
 
