@@ -898,7 +898,16 @@ Then click on "Database".
 <br />
 
 <p>
+<img src="https://i.imgur.com/v9GwFIr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we are going to name the database "osTicket" then click "OK".
+</p>
+<br />
+
+<p>
 <img src="
+
 
 
                                                                        
