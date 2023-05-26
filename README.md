@@ -786,7 +786,24 @@ Next, before we fill in our "Database Settings" we have to setup a "Database" wh
 <br />
 
 <p>
+<img src="https://i.imgur.com/tT8yceI.png" height"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So now we are going to install "HeidiSQL", so double-click on "HeidiSQL".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/cKVuWSk.png" height"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For "License Agreement", we will click on "I accept the agreement" and then click on "Next".
+</p>
+<br />
+
+<p>
 <img src="
+
 
                                                                        
 
