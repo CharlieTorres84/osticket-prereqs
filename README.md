@@ -1026,6 +1026,30 @@ Then we will click on "Apply" and then "OK".
 <br />
 
 <p>
+<img src="https://i.imgur.com/L5ivPSg.png" height="80%" width="80%" alt="Disk sanitization Steps"/>
+</p>
+<p>
+Then we will click on "OK".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ujlwFsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This "URL" here is used as an "Admin" to log into it and do "Admin" stuff.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SnQuSRp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This "URL" is for "End User's" who actually want to create tickets inside of "osTicket".
+</p>
+<br />
+
+<p>
 <img src="
 
 
