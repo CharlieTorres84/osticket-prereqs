@@ -1010,6 +1010,22 @@ Then, we will click on "Edit".
 <br />
 
 <p>
+<img src="https://i.imgur.com/uqSKXNa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will uncheck "Full Control", "Modify" and "Write" and then click on "OK"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/izxhNiC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then we will click on "Apply" and then "OK".
+</p>
+<br />
+
+<p>
 <img src="
 
 
