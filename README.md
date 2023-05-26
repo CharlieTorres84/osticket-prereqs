@@ -962,6 +962,14 @@ Then, double-click on "osTicket" folder.
 <br />
 
 <p>
+<img src="https://i.imgur.com/R7t8Ah8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then go down to "Setup" folder and right-click and then click on "Delete" to delete "Setup" folder.
+</p>
+<br />
+
+<p>
 <img src="
 
 
