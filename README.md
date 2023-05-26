@@ -837,7 +837,23 @@ Then we will click on "Install" for "Ready to Install".
 <img src="https://i.imgur.com/Zvehpg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then well make sure that the samll box is checked for "Launch HeidiSQL" and then we will click on "Finish" to finish Installing.
+Then well make sure that the small box is checked for "Launch HeidiSQL" and then we will click on "Finish" to finish Installing.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dArPFcc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we need to create a "New" connection to the database , so we will click on "New".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/mPJZyun.png" height="80%" width="80%" alt="Disk Saniyization Steps"/>
+</p>
+<p>
+We need to put in the "Username" that we created earlier in "MySQL" server which is "root" and the password that we also created, so we will put in the "Password" and then click on open.
 </p>
 <br />
 
