@@ -981,7 +981,36 @@ Next, we are going to double-click on "include" folder.
 <img src="https://i.imgur.com/KcgFRGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Then we are going to right-click on "ost-config.php" file and then click on "Properties", because we are going to set the "Permissions" back on "ost-config.php" file and we are going to reset the permissions to "Read-only".
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/79NrXMA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will click on "Security" and then click on "Advanced".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bZ7w8ZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then, well click on "Everyone".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/d6pmWXA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then, we will click on "Edit".
+</p>
+<br />
+
+<p>
+<img src="
 
 
 
