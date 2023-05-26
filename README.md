@@ -866,6 +866,14 @@ Now we can see that we have our connection to "MySQL" server.
 <br />
 
 <p>
+<img src="https://i.imgur.com/Z74TrjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we need to our "MySQL Database", "MySQL Username" and "MySQL Password", so we will type in our "Username" which is "root" and the "Password" that we created in "MySQL" server.
+</p>
+<br />
+
+<p>
 <img src="
 
 
