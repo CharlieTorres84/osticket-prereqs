@@ -1058,7 +1058,21 @@ So we will copy the "Admin" "URL" and this "osTicket" page should appear.
 <br />
 
 <p>
-<img src="
+<img src="https://i.imgur.com/o9ihZN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will type in our "Username" and "Password" that we created in our "osTicket" page and then log-in.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/1DHJB9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If you were able to successfully Log-in to this page, that means that you completed all of the proper steps that was required to install and log-in to "osTicket" Congratulations! in the next Repository we will go over the "Post-Installation Config" of all of the things inside of "osTicket".
+</p>
+<br />
+
 
 
 
