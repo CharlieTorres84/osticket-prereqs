@@ -834,6 +834,14 @@ Then we will click on "Install" for "Ready to Install".
 <br />
 
 <p>
+<img src="https://i.imgur.com/Zvehpg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then well make sure that the samll box is checked for "Launch HeidiSQL" and then we will click on "Finish" to finish Installing.
+</p>
+<br />
+
+<p>
 <img src="
 
 
