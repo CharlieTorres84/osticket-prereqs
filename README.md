@@ -941,7 +941,15 @@ So, for clean up we need to go back to "File Explorer", then "My PC", and into o
 <img src="https://i.imgur.com/m7dVXqp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </P>
 <p>
-Next, we will click on "inetpub".
+Next, we will double-click on "inetpub".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OPhPy4J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then, double-click on "wwwroot" folder.
 </p>
 <br />
 
