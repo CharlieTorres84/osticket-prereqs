@@ -930,7 +930,15 @@ Congratulations! If you see this screen, that means that we successfully install
 <br />
 
 <p>
-<img src
+<img src="https://i.imgur.com/vQtemAm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So, for clean up we need to go back to "File Explorer", then "My PC", and into our "Windows (C) Drive" to delete our "Setup" folder.
+</p>
+<br />
+
+<p>
+<img src="
 
 
 
