@@ -858,6 +858,14 @@ We need to put in the "Username" that we created earlier in "MySQL" server which
 <br />
 
 <p>
+<img src="https://i.imgur.com/YFO10Dm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we can see that we have our connection to "MySQL" server. 
+</p>
+<br />
+
+<p>
 <img src="
 
 
