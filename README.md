@@ -882,6 +882,14 @@ Next, we have to create a "New" database in "HeidiSQL", so we will open up "Heid
 <br />
 
 <p>
+<img src="https://i.imgur.com/RJ2o5YA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then click on "Create new".
+</p>
+<br />
+
+<p>
 <img src="
 
 
