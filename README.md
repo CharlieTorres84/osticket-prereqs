@@ -925,7 +925,7 @@ Now, we will go back to our "osTicket" browser and go back to "Database Settings
 <img src="https://i.imgur.com/isjLSDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congratulations! If you see this screen, that means that we successfully installed our "osTicket" ticketing system. Now, we need to do a few things for clean up and then we are going to test our "Logging-in" and if it works properly, then we are ready to go.
+If you see this screen, that means that we successfully installed our "osTicket" ticketing system. Now, we need to do a few things for clean up and then we are going to test our "Logging-in" and if it works properly, then we are ready to use our  "osTicket" ticketing system.
 </p>
 <br />
 
