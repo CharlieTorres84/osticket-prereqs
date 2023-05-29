@@ -1050,10 +1050,10 @@ This "URL" is for "End User's" who actually want to create tickets inside of "os
 <br />
 
 <p>
-<img src="https://i.imgur.com/tk3tnBV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lx7VK7c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So we will copy the "Admin" "URL" and this "osTicket" page should appear.
+So we will copy and paste the "Admin" "URL" and this "osTicket" page should appear.
 </p>
 <br />
 
