@@ -20,7 +20,7 @@ This tutorial and walkthrough outlines the prerequisites and installation of the
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Servives (IIS)
-- Install Web Platform Installer and URL Rewrite Moduleble 
+- Install Web Platform Installer and URL Rewrite Module 
 - Install Microsoft Visual C++ Redistributable
 - Install MySQL, Setup Username and Password
 - Configure Permissions, Install oS Ticket and HeidiSQL
