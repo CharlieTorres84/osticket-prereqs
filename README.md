@@ -382,7 +382,7 @@ Next we will double-click on "PHP Manager".
 <img src="https://i.imgur.com/voRt9RN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"PHP" states "PHP is not enabled. Register new PHP version to enable PHP via FastCGI", so we are going to click on "Register new PHP version".
+"PHP" states that "PHP is not enabled. Register new PHP version to enable PHP via FastCGI", so we are going to click on "Register new PHP version".
 </p>
 <br />
 
