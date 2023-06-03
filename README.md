@@ -231,7 +231,7 @@ Next we need to create a "Directory" for "PHP" on the local harddrive, so we're 
 <img src="https://i.imgur.com/V86pJQX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next were going to download "PHP" and then we are going to unzip the contents of this into the "PHP" folder that we created. While downloading "PHP" there will be a "Microsoft Defender" screen that will ask you if you are sure that you trust the file that is being downloaded (PHP) click on "Keep Anyway". Once it downloads in our "File Explorer" folder, right-click on the "PHP" folder and then click on "Extract All". When the "Extract Compressed (Zipped) Folder" screen appears, we will type in "C:\PHP" and then click on "Extract", and all of the data will be dropped into the file.
+Next were going to download "PHP" and then unzip the contents of this into the "PHP" folder that we created. While downloading "PHP" there will be a "Microsoft Defender" screen that will ask you if you are sure that you trust the file that is being downloaded (PHP) click on "Keep Anyway". Once it downloads in our "File Explorer" folder, right-click on the "PHP" folder and then click on "Extract All". When the "Extract Compressed (Zipped) Folder" screen appears, we will type in "C:\PHP" and then click on "Extract", and all of the data will be dropped into the file.
 </p>
 <br />
 
