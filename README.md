@@ -180,7 +180,7 @@ Next, we will download and install "PHP Manager" for (IIS) and we will open up "
 <img src="https://i.imgur.com/uwti634.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we need to install "Rewrite Module". "Rewrite Module" allows certain special configurations in the config files inside of "oSTicket" that does certain things behind the scenes with "URL's", so once it appears in the "File Explorer" file, double-click on it to start the process of installation. When the "IIS URL Rewrite Module 2 Setup" screen appears, we will check the box for "I accept the terms in the license agreement" and then click on "Install". Once it's done downloading and installing, we will click on "Finish"
+Next, we need to install "Rewrite Module". "Rewrite Module" allows certain special configurations in the config files inside of "oSTicket" that does certain things behind the scenes with "URL's", so once it appears in the "File Explorer" file, double-click on it to start the process of installation. When the "IIS URL Rewrite Module 2 Setup" screen appears, we will check the box for "I accept the terms in the license agreement" and then click on "Install". Once it's done and installing, we will click on "Finish"
 </p>
 <br />
 
