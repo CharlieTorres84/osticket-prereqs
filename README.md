@@ -1069,7 +1069,7 @@ Next, we will type in our "Username" and "Password" that we created in our "osTi
 <img src="https://i.imgur.com/1DHJB9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you were able to successfully Log-in to this page, that means that you completed all of the proper steps that was required to install and log-in to "osTicket".  In the next Repository we will go over the "Post-Installation Config" of all of the things inside of "osTicket". (140)
+If you were able to successfully Log-in to this page, that means that you completed all of the proper steps that was required to install and log-in to "osTicket". In the next Repository we will go over the "Post-Installation Config" of all of the things inside of "osTicket". (140)
 </p>
 <br />
 
