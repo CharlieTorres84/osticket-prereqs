@@ -28,6 +28,11 @@ This tutorial and walkthrough outlines the prerequisites and installation of the
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/wspvaJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
 <img src="https://i.imgur.com/fIFEwWV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
